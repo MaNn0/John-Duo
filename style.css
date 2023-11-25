@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  /* font-size: 15px; */
+  line-height: 1.5;
+  background-color: #000;
+  color: #fff;
+}
+
+p {
+  margin: 0;
+}
+
+img {
+  width: auto;
+}
+
+.nave {
+  width: 120px;
+  height: 100vh;
+  padding: 0px !important;
+  margin: 0px !important;
+  background-color: #222;
+  position: fixed;
+  z-index: 1;
+}
+
+.nave a {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  padding: 12px 24px;
+}
+.nave a:hover {
+  background-color: #000;
+}
+.nave #awl:hover {
+  background-color: #ccc !important;
+  color: #000;
+}
+.nave a p {
+  font-size: 10px;
+  margin: 20px 0;
+}
+
+.main {
+  margin-left: 120px;
+  padding: 12px 24px;
+}
+header {
+  /* display: flex; */
+  padding-top: 50px;
+  /* margin-left: 48px; */
+  text-align: center;
+  font-size: 12px;
+}
+
+.f-p {
+  padding: 60px 185px;
+}
+
+.f-p p {
+  text-align: justify;
+  opacity: 0.5;
+}
+
+.edit {
+  border-radius: 0%;
+  height: 30px;
+}
+
+.perc {
+  width: 20px;
+  background-color: #616161;
+}
+.ok {
+  margin: 15px 0px;
+  letter-spacing: 4px;
+  font-size: 15px;
+}
+
+.kol {
+  background-color: #f1f1f1;
+  margin: 30px 0;
+  padding: 24px 32px;
+}
+.gr {
+  color: #000;
+  opacity: 1 !important ;
+  text-align: center !important;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+button {
+  background-color: #f1f1f1;
+  margin: 12px 0;
+  padding: 12px 24px;
+}
+
+button:hover {
+  background-color: #ccc;
+}
+
+.shel {
+  /* padding-left: 0; */
+  text-align: center;
+  border-radius: 0 !important;
+}
+
+.fi {
+  padding: 25px 0;
+  background-color: #616161;
+  color: #fff;
+}
+
+.cardd {
+  border-radius: 0 !important;
+  filter: brightness(60%);
+}
+
+.cardd:hover {
+  filter: brightness(100%);
+}
+
+.al {
+  padding: 16px 0;
+  border-bottom: 1px solid #ccc !important;
+}
+
+.doll {
+  padding: 26px 0 !important;
+}
+
+.zer {
+  border: 0;
+}
+.zer:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.swrt7t {
+  margin-right: 15px;
+  float: left;
+  border-radius: 50%;
+  height: 80px;
+}
+
+.photos {
+  width: 100%;
+  margin-bottom: 10px;
+  height: auto;
+}
+
+.aws {
+  opacity: none !important;
+  font-size: 25px;
+  margin-right: 16px;
+}
+
+.offf {
+  opacity: 0.5;
+}
+
+.forms {
+  margin-bottom: 10px;
+  padding: 15px 5px;
+  width: 100%;
+}
+
+footer i {
+  font-size: 22px;
+  color: #616161;
+}
+
+footer i:hover {
+  opacity: 0.6;
+}
+
+.gg {
+  font-size: 15px;
+  padding: 20px 0px;
+}
+.link {
+  color: #fff;
+}
+.link:hover {
+  color: #50e155;
+}
